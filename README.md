@@ -1,0 +1,2 @@
+# StreamToStreamJoinIntegrationTest
+StreamToStreamJoinIntegrationTest
